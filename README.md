@@ -39,10 +39,7 @@ A 3D interactive Rubik's Cube simulation built using HTML, CSS, JavaScript, and 
 
 ## Screenshots
 ![Screenshot 2](webiste_images/img1.png)  
-![Screenshot 2](webiste_images/img2.png)  
-![Screenshot 2](webiste_images/img3.png)  
-![Screenshot 2](webiste_images/img4.png)  
-![Screenshot 2](webiste_images/img5.png)  
+  
 
 ## Future Enhancements
 - Add support for larger cubes (e.g., 4x4, 5x5).

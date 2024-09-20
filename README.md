@@ -1,10 +1,6 @@
 # Rubik's Cube Game
 The Rubik's Cube game is a 3D simulation built using HTML, CSS, JavaScript, and Three.js. Players can interact with and solve a virtual cube through smooth animations and intuitive controls, with features like scrambling, layer rotations, and time tracking for an engaging experience.
 
-Here’s a sample **README** file for your Rubik's Cube game:
-
----
-
 # 3D Rubik's Cube Game
 
 A 3D interactive Rubik's Cube simulation built using HTML, CSS, JavaScript, and Three.js. This project allows users to experience the fun of solving a Rubik's Cube directly in their browser with realistic visuals and intuitive controls.
@@ -50,9 +46,4 @@ A 3D interactive Rubik's Cube simulation built using HTML, CSS, JavaScript, and 
 - Add customizable themes and cube colors.
 - Implement a leaderboard for solving times.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to customize this README further depending on your project specifics. Let me know if you'd like any additional sections!

@@ -26,21 +26,21 @@ An immersive, interactive 3D Rubik's Cube simulation built using HTML, CSS, Java
 
 ## A Glance at the Website
 ![Screenshot 1](./website_images/img1.png)
-
-![2x2 Cube](./website_images/img6.png)
 ### The easy 2x2 cube - a great starting point!
+![2x2 Cube](./website_images/img6.png)
 
-![3x3 Cube](./website_images/img1.png)
 ### The classic 3x3 cube - a true challenge for puzzle enthusiasts.
+![3x3 Cube](./website_images/img1.png)
 
-![4x4 Cube](./website_images/img7.png)
 ### The 4x4 cube - more pieces, more complexity!
 
-![5x5 Cube](./website_images/img8.png)
+![4x4 Cube](./website_images/img7.png)
 ### The ultimate 5x5 cube - for the bravest solvers.
 
-![Screenshot 5](./website_images/img5.png)
+![5x5 Cube](./website_images/img8.png)
 ### Scramble mode - can you solve it?
+![Screenshot 5](./website_images/img5.png)
+
 
 ### Customize your cube
 ![Scrambled Cube](./website_images/img2.png)

@@ -38,7 +38,7 @@ A 3D interactive Rubik's Cube simulation built using HTML, CSS, JavaScript, and 
 - Timing functions are used to keep track of how long the player takes to solve the cube.
 
 ## Screenshots
-![Screenshot 2](webiste_images/img1.png)  
+![Screenshot 2](./webiste_images/img1.png)  
   
 
 ## Future Enhancements

@@ -37,8 +37,25 @@ A 3D interactive Rubik's Cube simulation built using HTML, CSS, JavaScript, and 
 - The cube can be scrambled via a built-in function, generating a series of random moves.
 - Timing functions are used to keep track of how long the player takes to solve the cube.
 
+# 3D Rubik's Cube Game
+
 ## Screenshots
-![Screenshot 2](./webiste_images/img1.png)  
+
+![Screenshot 1](./website_images/img1.png)
+*Description of Screenshot 1*
+
+![Screenshot 2](./website_images/img2.png)
+*Description of Screenshot 2*
+
+![Screenshot 3](./website_images/img3.png)
+*Description of Screenshot 3*
+
+![Screenshot 4](./website_images/img4.png)
+*Description of Screenshot 4*
+
+![Screenshot 5](./website_images/img5.png)
+*Description of Screenshot 5*
+
   
 
 ## Future Enhancements

@@ -67,9 +67,3 @@ An immersive, interactive 3D Rubik's Cube simulation built using HTML, CSS, Java
 
 
 
-## Screenshots
-
-![Screenshot 1](./website_images/img1.png)
-![Screenshot 5](./website_images/img5.png)
-![Screenshot 4](./website_images/img4.png)
-![Screenshot 2](./website_images/img2.png)

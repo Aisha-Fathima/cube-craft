@@ -38,7 +38,11 @@ A 3D interactive Rubik's Cube simulation built using HTML, CSS, JavaScript, and 
 - Timing functions are used to keep track of how long the player takes to solve the cube.
 
 ## Screenshots
-*(Add screenshots or gifs of your game in action)*
+![Screenshot 2](webiste_images/img1.png)  
+![Screenshot 2](webiste_images/img2.png)  
+![Screenshot 2](webiste_images/img3.png)  
+![Screenshot 2](webiste_images/img4.png)  
+![Screenshot 2](webiste_images/img5.png)  
 
 ## Future Enhancements
 - Add support for larger cubes (e.g., 4x4, 5x5).
